@@ -92,4 +92,4 @@ python src/agent.py
 **Ashu Dixit (Ashu02412)**  
 *Senior DevSecOps & AI Platform Engineer*  
 - GitHub: [@Ashu02412](https://github.com/Ashu02412)  
-- Email: [ashu.dixit024@gmail.com](mailto:ashu.dixit024@gmail.com)
+- Email: [ashu05.dixit@gmail.com](mailto:ashu05.dixit@gmail.com)
