@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "devops-security-agent": {
+      "command": "python",
+      "args": ["-m", "src.server"],
+      "env": {
+        "PYTHONPATH": ".",
+        "KUBECONFIG_PATH": "~/.kube/config",
+        "TRIVY_SEVERITY": "HIGH,CRITICAL"
+      }
+    }
+  }
+}
